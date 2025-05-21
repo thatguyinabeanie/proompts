@@ -6,7 +6,7 @@
 
 ### The name of the project/repository
 
-project_name: "Your Project"
+project_name: "Popsicle"
 
 ### Tone style options: friendly-professional, highly-professional, casual
 
