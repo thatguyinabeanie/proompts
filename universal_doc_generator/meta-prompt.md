@@ -14,7 +14,7 @@ last_updated: "2025-05-21"
 
 ## Author of this meta-prompt
 
-author: "Documentation Team"
+author: "Gabe Mendoza"
 
 ## Description of this meta-prompt
 
