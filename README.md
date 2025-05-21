@@ -1,2 +1,5 @@
 # proompts
-a collection of llm agent propmts
+
+A collection of LLM agent prompts.
+
+All prompts are located in the `prompts` directory.
